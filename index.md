@@ -42,10 +42,14 @@ repository is used as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools
 
 ###### firebase-cloud-functions
 A [Google Firebase Cloud Function](https://firebase.google.com/docs/functions) is located in [firebase-cloud-functions](https://github.com/OpenAgricultureFoundation/firebase-cloud-functions)
-This function is used as part of registration the device with [Google's PubSub](https://cloud.google.com/pubsub/)
+This function is  part of registering the device with [Google's PubSub](https://cloud.google.com/pubsub/)
 
 ###### mqtt-service
-TODO: fill in mqtt info
+Any OpenAg device that is communicating with the backend (Google, or soon, locally) uses the [mqtt](http://mqtt.org/) 
+messaging protocol. On the cloud/server side, the [mqtt-service project](https://github.com/OpenAgricultureFoundation/mqtt-service) 
+listens to mqtt topics to receive sensor data from the device, and sends commands down to the device 
+(such as starting an environmental recipe). The [cloud_common](https://github.com/OpenAgricultureFoundation/cloud_common)
+repository is used when running on Google's cloud platform.
 
 ###### Data_API
 TODO: fill in Data API
