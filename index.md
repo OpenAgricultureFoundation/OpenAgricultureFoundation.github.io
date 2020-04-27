@@ -8,7 +8,7 @@ The latest version of the software was developed for the version 4 of the machin
 a [Raspberry Pi](https://www.raspberrypi.org/) computer.
 
 ### Device Software
-###### openag-device-software
+#### openag-device-software
 The [openag-device-software repository](https://github.com/OpenAgricultureFoundation/openag-device-software) contains 
 the [Django](https://www.djangoproject.com/) based software that runs on the physical PFC-EDU device. This software communicates
 with the hardware over `I2C` as well as with a backend that used to run on [Google's Cloud Platform (GCP)](https://cloud.google.com/).
@@ -16,7 +16,7 @@ with the hardware over `I2C` as well as with a backend that used to run on [Goog
 OpenAg's instance of the cloud platform has been shutdown, but modifications to the code to allow running locally are currently being made.
 (Information will be updated as soon as it is available.)
 
-###### openag-brain-balena
+#### openag-brain-balena
 While the device software can be run directly on a Raspberry Pi 3, you can manage deployment and upgrading of one
 or more devices via [Balena.io](https://www.balena.io/). Balena provides an infrastructure to deploy and manage 
 [Docker](https://www.docker.com/) based 'applications' on smaller embedded hardware such as the Raspberry Pi. 
@@ -24,7 +24,7 @@ or more devices via [Balena.io](https://www.balena.io/). Balena provides an infr
 The [openag-brain-balena repsoitory](https://github.com/OpenAgricultureFoundation/openag-brain-balena) is a ready to go
 project that depends on the `openag-device-software` to power PFC machines.
 
-###### python-wifi-connect
+#### python-wifi-connect
 [python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) is a python implementation of 
 [Balena's wifi-connect](https://github.com/balena-io/wifi-connect) project. It is used by [openag-brain-balena](https://github.com/OpenAgricultureFoundation/openag-brain-balena)
 to configure the wifi on a Raspberry Pi via a captive portal on which can be accessed by a browser. The OpenAg implementation
@@ -34,25 +34,25 @@ account on the cloud software.
 ### Cloud Software
 There are several pieces of software that were designed to run in the cloud.
 
-###### cloud_common
+#### cloud_common
 The [cloud_common repository](https://github.com/OpenAgricultureFoundation/cloud_common) collected several cloud specific 
 functions and interfaces that are used by many of the cloud based software projects. These include things like tying into
 [Google  BigQuery](https://cloud.google.com/bigquery) and [Google Datastore](https://cloud.google.com/datastore), etc. The 'cloud_common' 
 repository is used as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) in the other projects.
 
-###### firebase-cloud-functions
+#### firebase-cloud-functions
 A [Google Firebase Cloud Function](https://firebase.google.com/docs/functions) is located in [firebase-cloud-functions](https://github.com/OpenAgricultureFoundation/firebase-cloud-functions)
 This function is  part of registering the device with [Google's PubSub](https://cloud.google.com/pubsub/)
 
-###### mqtt-service
+#### mqtt-service
 Any OpenAg device that is communicating with the backend (Google, or soon, locally) uses the [mqtt](http://mqtt.org/) 
 messaging protocol. On the cloud/server side, the [mqtt-service project](https://github.com/OpenAgricultureFoundation/mqtt-service) 
 listens to mqtt topics to receive sensor data from the device, and sends commands down to the device 
 (such as starting an environmental recipe). The [cloud_common](https://github.com/OpenAgricultureFoundation/cloud_common)
 repository is used when running on Google's cloud platform.
 
-###### Data_API
+#### Data_API
 TODO: fill in Data API
 
-###### EDU_UI
+#### EDU_UI
 TODO: fill in EDU UI
