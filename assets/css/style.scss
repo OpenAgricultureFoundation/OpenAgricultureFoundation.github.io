@@ -20,7 +20,7 @@ nav {
       // position:relative;
       // right:-12px;
 
-      &.tag-h1 {
+      &.tag-h2 {
         font-size: 1.2em;
 
         a {
@@ -28,14 +28,14 @@ nav {
           color: #333;
         }
 
-        + .tag-h2 {
+        + .tag-h3 {
 
         }
       }
 
-      &.tag-h2 {
+      &.tag-h3 {
 
-        + .tag-h1 {
+        + .tag-h2 {
           margin-top:10px;
         }
       }
