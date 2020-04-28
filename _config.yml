@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: "Open Agriculture Foundation"
 logo: "static/openag_logo.jpg"
-show_downloads: "false"
+show_downloads: false
