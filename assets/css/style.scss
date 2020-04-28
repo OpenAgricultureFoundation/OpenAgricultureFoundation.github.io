@@ -5,6 +5,10 @@
 
 nav {
   text-align: right;
+  position: fixed;
+  top: inherit;
+  right: 3%;
+  width: 200px;
 
   ul {
     list-style: none;
