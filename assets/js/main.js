@@ -13,7 +13,4 @@ $(function() {
         event.preventDefault();
     });
 
-    sectionHeight();
-
-    $('img').on('load', sectionHeight);
 });
