@@ -1,0 +1,27 @@
+.oa-sidebar {
+    -ms-flex-order: 0;
+    order: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 768px) {
+    .oa-sidebar {
+        border-right: 1px solid rgba(0, 0, 0, 0.1);
+    }
+    @supports ((position: -webkit-sticky) or (position: sticky)) {
+        .oa-sidebar {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 4rem;
+            z-index: 1000;
+            height: calc(100vh - 4rem);
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    .oa-sidebar {
+        -ms-flex: 0 1 320px;
+        flex: 0 1 320px;
+    }
+}
