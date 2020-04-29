@@ -1,3 +1,6 @@
+---
+layout: bootstrap
+---
 # Open Agriculture Foundation
 Welcome to the OpenAgriculture Foundation. Here you will find information about the various software
 and hardware solutions that were created by OpenAg.
