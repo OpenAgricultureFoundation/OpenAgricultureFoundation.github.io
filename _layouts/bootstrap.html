@@ -13,7 +13,7 @@
         <div class="col-md-3 col-xl-2 oa-sidebar">
             <a href="{{ "/" | absolute_url }}">
             {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="logo"/>
+            <img class="img-fluid" src="{{site.logo | relative_url}}" alt="logo"/>
             {% else %}
             <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
             {% endif %}
@@ -28,11 +28,11 @@
             <p class="view"><a href="{{ site.github.owner_url }}">View GitHub Profile</a></p>
             {% endif %}
         </div>
-        <nav id="section-nav" class="d-none d-xl-block col-xl-2" aria-label="Secondary navigation">
+        <nav id="section-nav" class="d-none d-xl-block col-xl-2 oa-toc" aria-label="Secondary navigation">
             <ul class="section-nav">
             </ul>
         </nav>
-        <main class="col-md-9 col-xl-8 py-md-3 pl-md-5" role="main">
+        <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 oa-content" role="main">
             {{ content }}
         </main>
     </div>
