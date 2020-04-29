@@ -1,6 +1,6 @@
 $(function() {
     $("section h2, section h3, section h4").each(function(){
-        $("nav ul").append("<li class='toc-entry toc-" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
+        $("#section-nav ul").append("<li class='toc-entry toc-" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
         $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
         $("nav ul li:first-child a").parent().addClass("active");
     });
