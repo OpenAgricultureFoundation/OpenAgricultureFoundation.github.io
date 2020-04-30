@@ -63,6 +63,19 @@
     color: #77757a;
 }
 
+.toc-h1 {
+    font-weight: bold;
+}
+
+.toc-h2 {
+    margin-left: .5em;
+}
+
+
+.toc-h3 {
+    margin-left: 1em;
+}
+
 .toc-entry a:hover {
     color: #007bff;
     text-decoration: none;
