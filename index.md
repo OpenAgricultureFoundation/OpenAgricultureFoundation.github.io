@@ -64,6 +64,10 @@ account on the cloud software.
 
 #### Cloud Software
 There are several pieces of software that were designed to run in the cloud.
+There is a local services effort underway by [srmoore](https://github.com/srmoore). The goal of which is to replace
+the cloud based components with a [docker-compose](https://docs.docker.com/compose/) setup that can be run locally. 
+
+Updates to that effort will be posted here as they become available.
 
 ##### cloud_common
 The [cloud_common repository](https://github.com/OpenAgricultureFoundation/cloud_common) collected several cloud specific 
