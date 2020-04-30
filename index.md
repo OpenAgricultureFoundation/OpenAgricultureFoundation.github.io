@@ -83,10 +83,16 @@ listens to mqtt topics to receive sensor data from the device, and sends command
 repository is used when running on Google's cloud platform.
 
 ##### Data_API
-TODO: fill in Data API
+The OpenAg [Data API](https://github.com/OpenAgricultureFoundation/Data_API) provides access to the backend services via 
+a Python [Flask](https://flask.palletsprojects.com/en/1.1.x/) based Web API. It relies on the [cloud_common](https://github.com/OpenAgricultureFoundation/cloud_common) project, as well as [Auth0](https://auth0.com/) for initial
+log in. 
 
 ##### EDU_UI
-TODO: fill in EDU UI
+The OpenAg [Education User Interface](https://github.com/OpenAgricultureFoundation/EDU_UI) is [reactjs](https://reactjs.org/)
+web application for controlling PFC-EDU bots from 'the cloud'. It was designed to run alongside the [Data_API]() on Google's 
+Cloud Platform. Logging into the UI utilizes the [Auth0](https://auth0.com/) OpenID Connect service, but could be transitioned to another OIDC provider.
+Once logged in, the EDU_UI and Data_API use a home brew token system, because the effort to transition the API over to OIDC/OAuth
+was never completed.
 
 ### Hardware
 TBD
