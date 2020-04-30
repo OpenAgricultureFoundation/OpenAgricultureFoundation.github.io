@@ -99,4 +99,8 @@ Once logged in, the EDU_UI and Data_API use a home brew token system, because th
 was never completed.
 
 ### Hardware
-TBD
+The OpenAg hardware consists of electrical and mechanical assets. The electrical assets are housed in the [OpenAg-electric] (https://github.com/OpenAgricultureFoundation/openag-electrical)
+repositories under prj/pfc-edu/v4.0 with the current design files and BOM.  Whereas, the latest mechanical cut files are housed in the [OpenAg-mechanical] (https://github.com/OpenAgricultureFoundation/openag-mechanical) repository. 
+Any updates on contract manufactures information will be posted here in the future, if applicable.  
+index.md
+Displaying index.md.
