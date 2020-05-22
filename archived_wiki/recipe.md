@@ -1,9 +1,10 @@
 ---
 layout: bootstrap
 ---
+# [Archive of wiki.openag.media.mit.edu](index.md)
 `Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
 
-# Climate Recipes
+## Climate Recipes
 While plants can be altered genetically to produce different or more desirable traits, plants with the same genetics 
 may naturally vary in color, size, texture growth rate, yield, flavor, and nutrient density depending on the 
 environmental conditions in which they are grown.
@@ -21,10 +22,10 @@ experiment to cross link environmental, biologic, genetic variables and other cu
 outputs in plants (like nutrition, color, flavor), then share, borrow, scale up, and improve their results 
 around the world, instantly.
 
-# How they work
+## How they work
 Examples of recipes we use at MIT OpenAg for test and research.
 
-#What they look like
+## What they look like
 ```json
 {
    "_id": "long_test_recipe",
@@ -44,5 +45,5 @@ Examples of recipes we use at MIT OpenAg for test and research.
 }
 ```
 
-# Test Recipes
+## Test Recipes
 [Repository of Recipes(Github)](https://github.com/OpenAgricultureFoundation/openag_recipe_bag)
