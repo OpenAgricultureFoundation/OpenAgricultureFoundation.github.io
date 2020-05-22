@@ -1,0 +1,31 @@
+---
+layout: bootstrap
+---
+`Archived Contents from the original OpenAg Wiki`
+
+# Personal Food Computers
+The OpenAg™ Personal Food Computer is a tabletop-sized, controlled environment agriculture technology platform that 
+uses robotic systems to control and monitor climate, energy, and plant growth inside of a specialized growing chamber. 
+Climate variables such as carbon dioxide, air temperature, humidity, dissolved oxygen, potential hydrogen, electrical 
+conductivity, and root-zone temperature are among the many conditions that can be controlled and monitored within the 
+growing chamber to yield various phenotypic expressions in the plants.
+
+This unit is intended for experimental, educational, and personal use. It can be made from easily accessible 
+components, expandable systems, and a standardized platforms on which to hack, modify, share, and upgrade over time. 
+Build instructions and schematics for the OpenAg™ Personal Food Computer are open source, so anyone around the world 
+can utilize this design.
+
+## Versions
+
+* Personal Food Computer 3.0 (PFC_EDU) (latest release, October 2018)
+* Personal Food Computer 2.1*
+* Personal Food Computer 2.0*
+* Personal Food Computer 1.0*
+* MVP PFC 1.0 (Community-designed Minimal Viable Product PFC)
+
+```
+*Update 11 October 2018: Please note that Open Agriculture Initiative at the MIT Media Lab paused research on PFC 
+versions 1.0-2.1 in Fall 2017, in anticipation of updated research and release of the PFC 3.0. While the build 
+resources for the older versions remain available on our wiki page and GitHub, MIT can't support community members’ 
+individual builds of PFC versions 1.0, 2.0, 2.1, or the MVP (designed and supported by the OpenAg community). 
+```
