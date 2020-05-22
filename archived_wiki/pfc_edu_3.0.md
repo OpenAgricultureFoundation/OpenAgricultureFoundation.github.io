@@ -64,4 +64,49 @@ community on all things PFC_EDU.
 - [Configuration Guide (created with i2 Learning for Fall 2018 Pilot Test) (MISSING PDF file)]()
 - ["Get Growing" Germination Guide  (MISSING INFORMATION)]()
 
+## PFC_EDU Bill of Materials and Design
+![pfc-edu_assembly_img.png](/static/images/wiki/pfc-edu_assembly_img.png)
+![pcba_drawing.jpg](/static/images/wiki/pcba_drawing.jpg)
+![brain_board_img_.png](/static/images/wiki/brain_board_img_.png)
+
+The files you'll need to build a PFC_EDU from scratch are below:
+
+* [PFC 3.0 (PFC_EDU) Specifications Sheet (MISSING PDF)]()
+* [PFC_EDU Assembly Bill of Materials (total unit BOM, Google spreadsheet) (archive.org link)](https://web.archive.org/web/20190723192227/https://docs.google.com/spreadsheets/d/1c2H4cPmi8jmzXLx5jP24l9h5RykYYzeQhTub-tl5C-M/edit?usp=sharing)
+
+A baseline PFC 3.0 can be assembled for about $500 with the raw materials below. 
+For folks who want to outsource more advanced components to professional manufacturers, see “Getting parts of a PFC_EDU 
+manufactured” below.
+
+1. Main chassis (frame cut by CNC)
+2. Water reservoir (laser cut or vacuum-formed)
+3. Air stone and hose
+4. A completed “Central Nervous System” (CNS), which includes a printed circuit board (PCB) and
+    - BeagleBone Black
+    - LED lights
+    - Fans
+    - Temperature, humidity and C02 sensors
+    - Air pump
+    - USB camera
+    - Power supply and cord
+    - For more advanced environmental data, the PFC_EDU CNS can be modified to include these optional sensors:
+        - EC probe (a conductivity sensor for nutrient concentration)
+        - pH probe
+        - Water temperature probe
+
+## Software
+All the details for getting your BeagleBone Black ready, software installed, configured and updated are available in the ReadMe's at the links below.
+
+ - [OpenAg Brain (Django/Python)](https://github.com/OpenAgricultureFoundation/openag-device-software)
+ - [OpenAg Cloud (Python/React/Flask)](https://github.com/OpenAgricultureFoundation/self_hosted_backend)
+    - `Note the 'OpenAg Cloud' now points to a self hosted docker based option`
+    
+![OpenAg Cloud Architecture](/static/images/wiki/openag_cloud_arch_v4_small.jpg)
+
+[OpenAg Cloud Architecture Description](https://github.com/OpenAgricultureFoundation/Data_API/blob/master/docs/OpenAg%E2%84%A2%20Cloud%20Description%20v4.pdf)
+
+`NOTE: The Architecture described above was the original Google Cloud Platform based backend. The new 'self_hosted_backend' 
+will have a description in it's repository's readme`
+
+
 
