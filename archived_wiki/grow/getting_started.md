@@ -1,5 +1,10 @@
-Getting Started Growing (or Germination 101)
-============================================
+---
+layout: bootstrap
+---
+# [Archive of wiki.openag.media.mit.edu](index.md)
+`Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
+
+## Getting Started Growing (or Germination 101)
 
 Starter Supplies:
 
@@ -15,7 +20,7 @@ Starter Supplies:
 
 Getting started growing with your OpenAg™ Personal Food Computer (PFC)
 is easy. You’ve assembled the [Personal Food
-Computers](../personal_food_computers.md) and now its time to start
+Computers](/archived_wiki/personal_food_computers.md) and now its time to start
 propagating. While the PFC can bring all types of plants––tomatoes,
 basil, broccoli––to maturity, it’s best to initially germinate your
 seeds outside of the bot.
