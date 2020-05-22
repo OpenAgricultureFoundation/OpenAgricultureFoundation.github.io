@@ -19,7 +19,7 @@ that can be borrowed and scaled so that users around the world can gain access t
 
 ## Food Computer Plans
 
-* [Personal Food Computers](personal_food_computres.md)
+* [Personal Food Computers](personal_food_computers.md)
     * [Latest Release: PFC v3.0 (PFC_EDU) (youtube.com link)](https://www.youtube.com/watch?v=-J1DNp4M_1k&feature=youtu.be)
 * Food Server*
 * Food Data Center*
