@@ -60,18 +60,18 @@ community on all things PFC_EDU.
 ### Videos & Support Materials
 
 - [Welcome to the PFC_EDU (youtube video)](https://youtu.be/-J1DNp4M_1k)
-- [Final Assembly Guide (created with i2 Learning for Fall 2018 Pilot Test) (MISSING PDF file)]()
-- [Configuration Guide (created with i2 Learning for Fall 2018 Pilot Test) (MISSING PDF file)]()
-- ["Get Growing" Germination Guide  (MISSING INFORMATION)]()
+- [Final Assembly Guide (created with i2 Learning for Fall 2018 Pilot Test)](/static/assets/wiki/pfc3/pfc_edu_assembly_instructions.pdf)
+- [Configuration Guide (created with i2 Learning for Fall 2018 Pilot Test)](/static/assets/wiki/pfc3/pfc_edu_connecting_to_the_user_interface_ui_1_.pdf)
+- ["Get Growing" Germination Guide](grow/getting_started.md)
 
 ## PFC_EDU Bill of Materials and Design
-![pfc-edu_assembly_img.png](/static/images/wiki/pfc-edu_assembly_img.png)
-![pcba_drawing.jpg](/static/images/wiki/pcba_drawing.jpg)
-![brain_board_img_.png](/static/images/wiki/brain_board_img_.png)
+[![pfc-edu_assembly_img.png](/static/images/wiki/pfc-edu_assembly_img.png)](/static/images/wiki/pfc3/pfc-edu_assembly_img.png)
+[![pcba_drawing.jpg](/static/images/wiki/pcba_drawing.jpg)](/static/images/wiki/pfc3/pcba_drawing.jpg)
+[![brain_board_img_.png](/static/images/wiki/brain_board_img_.png)](/static/images/wiki/pfc3/pfc-edu_assembly_img.png)
 
 The files you'll need to build a PFC_EDU from scratch are below:
 
-* [PFC 3.0 (PFC_EDU) Specifications Sheet (MISSING PDF)]()
+* [PFC 3.0 (PFC_EDU) Specifications Sheet](/static/assets/wiki/pfc3/pfc_3_edu_specification-sheet.pdf)
 * [PFC_EDU Assembly Bill of Materials (total unit BOM, Google spreadsheet) (archive.org link)](https://web.archive.org/web/20190723192227/https://docs.google.com/spreadsheets/d/1c2H4cPmi8jmzXLx5jP24l9h5RykYYzeQhTub-tl5C-M/edit?usp=sharing)
 
 A baseline PFC 3.0 can be assembled for about $500 with the raw materials below. 
