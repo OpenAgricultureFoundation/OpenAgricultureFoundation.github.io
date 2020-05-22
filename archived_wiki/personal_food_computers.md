@@ -1,7 +1,7 @@
 ---
 layout: bootstrap
 ---
-`Archived Contents from the original OpenAg Wiki`
+`Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
 
 # Personal Food Computers
 The OpenAg™ Personal Food Computer is a tabletop-sized, controlled environment agriculture technology platform that 
@@ -17,7 +17,7 @@ can utilize this design.
 
 ## Versions
 
-* Personal Food Computer 3.0 (PFC_EDU) (latest release, October 2018)
+* [Personal Food Computer 3.0 (PFC_EDU) (latest release, October 2018)](pfc_edu_3.0.md)
 * Personal Food Computer 2.1*
 * Personal Food Computer 2.0*
 * Personal Food Computer 1.0*

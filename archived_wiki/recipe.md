@@ -1,7 +1,7 @@
 ---
 layout: bootstrap
 ---
-`Archived Contents from the original OpenAg Wiki`
+`Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
 
 # Climate Recipes
 While plants can be altered genetically to produce different or more desirable traits, plants with the same genetics 
@@ -14,7 +14,7 @@ code to maintain a very specific climate inside the growth chamber. This data pa
 “Climate Recipes.”
 
 Users create, download and run Climate Recipes to produce unique phenotypic results in plants. The data collected 
-during their growth cycle is recorded and filed in an open-source digital library called the [Open Phenome](https://web.archive.org/web/20190720114223/https://www.media.mit.edu/projects/open-phenome-project/overview/).
+during their growth cycle is recorded and filed in an open-source digital library called the [Open Phenome (archive.org link)](https://web.archive.org/web/20190720114223/https://www.media.mit.edu/projects/open-phenome-project/overview/).
 
 With Climate Recipes, Food Computers, and the Open Phenome, nerdfarmers can join together in a citizen science 
 experiment to cross link environmental, biologic, genetic variables and other cultivation inputs to phenotypic 
