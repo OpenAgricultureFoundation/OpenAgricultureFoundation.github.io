@@ -108,5 +108,58 @@ All the details for getting your BeagleBone Black ready, software installed, con
 `NOTE: The Architecture described above was the original Google Cloud Platform based backend. The new 'self_hosted_backend' 
 will have a description in it's repository's readme`
 
+## Hardware
+### Electrical
+Files for circuit board, sensors, and actuators (“central nervous system”)
+
+ - [Circuit Board Design files & Assembly Bill of Materials](https://github.com/OpenAgricultureFoundation/openag-electrical/tree/master/prj/pfc-edu/v4.0)
+ - [Optional Sensors Bill of Materials* (Google Spreadsheet) (MISSING DATA)]()
+
+*note: CO2 and environmental temperature/humidity sensors are included in the baseline CNS BOM. The pH, EC, water 
+temperature and camera are optional and included in the Optional Sensors BOM.*
+
+### Mechanical/Frame
+#### Files for the chassis
+
+ - [Chassis design files](https://github.com/OpenAgricultureFoundation/openag-mechanical/tree/master/prj/pfc-edu/v4.0) and [Bill of Materials](https://github.com/OpenAgricultureFoundation/openag-mechanical/blob/master/prj/pfc-edu/v4.0/pfc_edu%20bom.csv) (`NOTE: the original google sheets BOM with links is missing`)
+ - [Chassis Manufacturing Key (chassis parts' cutting specifications, parts data, and file locations)](https://github.com/OpenAgricultureFoundation/openag-mechanical/blob/master/prj/pfc-edu/v4.0/pfc_edu%20manufacturing%20key.csv) (`NOTE: the orignal google sheet version is missing`)
+
+### Additional Hardware
+ - [Small components (MISSING DATA)]() you'll need (air pump, air stone, USB camera)
+ 
+## Getting PFC_EDU Parts Manufactured
+This list of manufacturers is meant to help OpenAg community members of all skill levels build a PFC_EDU. 
+Add vendors you'd suggest to the [community list of manufacturers here (MISSING DATA)]().
+ 
+You can build one on your own, or seek out your [local FabLab](https://www.fablabs.io/labs/map), [Makerspace](https://inventtolearn.com/resources-makerspaces-and-hackerspaces/), or contractors like those below 
+(or in the [community list (MISSING DATA)]()) to help you get a chassis cut, a circuit board printed, or LED light panel created.
+ 
+ - File(s) needed to get the [chassis made](https://github.com/OpenAgricultureFoundation/openag-mechanical/tree/master/prj/pfc-edu/v4.0).
+ - File(s) needed to get the [reservoir made](https://github.com/OpenAgricultureFoundation/openag-mechanical/tree/master/prj/pfc-edu/v4.0/reservoir).
+ - Files needed to get the [baseline CNS made](https://github.com/OpenAgricultureFoundation/openag-electrical/tree/master/prj/pfc-edu/v4.0), which includes circuit board, lights, fans, temp/humidity/CO2 sensors, & power supply. Does not include optional sensors.
+ 
+### Mechanical Contract Manufacturers
+ - [Plethora](https://www.plethora.com/)
+ - [Xometry](https://www.xometry.com/)
+ - [Protolabs](https://www.protolabs.com/)
+ - [Cycle Start](http://cyclestart.com/)
+ - [DSH Mould](https://www.dshmould.com/)
+ - [Altec Plastics](http://altecplastics.com/)
+ 
+### Electronic Assembly Houses
+ - [7PCB](https://www.7pcb.com/)
+ - [4PCB](https://www.4pcb.com/)
+ - [Seeed Studio](https://www.seeedstudio.com/)
+ 
+### Other Sources
+ [Community's Manufacturer List (MISSING DATA)]()
+ 
+*Note: Vendors listed here are simply suggestions of some manufacturers that may be helpful to the OpenAg community. 
+Listing a vendor here doesn't suggest or imply the endorsement of these organizations, their products, or their 
+services by MIT or the OpenAg community. As always, check your sources!*
+ 
+## Licensing
+ - License: GPL 3.0.
+ - Documentation license: CC-BY-SA
 
 
