@@ -1,14 +1,8 @@
 How to Build and Run a PFCv2.x\*
 ================================
 
-\*Update March 2018: Please note that MIT OpenAg at the Media Lab has
-paused research on this version, and while these build resources remain
-available here and on our GitHub, MIT OpenAg can't support community
-members' individual builds of this versions. If you\'re building this
-version (or your own modification of this version!), [let us
-know](https://docs.google.com/forms/d/e/1FAIpQLSd6UDIJKbYq-LOPOTddIMNqpUrH4OZX3i3BH2kfzo63JwJXTA/viewform)!
-[For more details, see this community forum
-post](https://forum.openag.media.mit.edu/t/update-from-openag-please-read/3171).
+\*Update March 2018: Please note the OpenAg Project has
+paused research on this version
 
 Getting Started
 ---------------

@@ -9,12 +9,9 @@ The OpenAg™ Personal Food Computer 3.0 (PFC_EDU) is the latest evolution of th
 
 ![Image of PFC-EDU 3.0](/static/images/wiki/pfc_edu_low-res_.jpg)
 
-The PFC 3.0 (PFC_EDU)The PFC_EDU was designed by the [MIT Open Agriculture Initiative (archive.org link)](https://web.archive.org/web/20190723192227/https://www.media.mit.edu/groups/open-agriculture-openag/overview/), in collaboration with the OpenAg 
+The PFC 3.0 (PFC_EDU)The PFC_EDU was designed by the OpenAg Project, in collaboration with the OpenAg 
 community, especially educators working in both informal and formal education settings (e.g. libraries, schools, 
-museums). It can be built, used, modified and hacked by the community for any number of applications. MIT continues 
-to test its functionality, design, user interface and impact on learning with our education partners [i2 Learning](https://i2learning.org), 
-the [Media Lab Learning Initiative](https://learn.media.mit.edu/), and educators and nerdfarmers of various ages, technical backgrounds, and access 
-to resources.
+museums). It can be built, used, modified and hacked by the community for any number of applications. 
 
 Like any [Food Computer™](index.md), the PFC_EDU is a controlled environment agriculture technology platform that uses robotic 
 systems to control and monitor climate, energy, and plant growth inside its specialized growing chamber. The PFC_EDU 
@@ -51,11 +48,7 @@ and schools in a pilot test in the Boston area. You can get a sneak peak at both
 Configuration Guide, below.
 
 ## Get Started
-Watch the Welcome Video and see the documentation below for more details, and be sure to join the 
-[OpenAg Forum (currently down)]() or [follow us on Twitter](https://twitter.com/mitopenag) to get updates from the 
-community on all things PFC_EDU.
-
-*Protip - If you're new to wiki, be sure to ctrl-click (Windows) or cmd-click (Mac) links to open them in a new tab.*
+Watch the Welcome Video and see the documentation below for more details.
 
 ### Videos & Support Materials
 
@@ -156,7 +149,7 @@ You can build one on your own, or seek out your [local FabLab](https://www.fabla
  
 *Note: Vendors listed here are simply suggestions of some manufacturers that may be helpful to the OpenAg community. 
 Listing a vendor here doesn't suggest or imply the endorsement of these organizations, their products, or their 
-services by MIT or the OpenAg community. As always, check your sources!*
+services by the OpenAg community. As always, check your sources!*
  
 ## Licensing
  - License: GPL 3.0.

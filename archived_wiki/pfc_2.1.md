@@ -7,18 +7,7 @@ layout: bootstrap
 ## Personal Food Computer 2.1
 
 **\*Update 11 October 2018**: Please note
-that MIT OpenAg at the Media Lab has paused research on these versions,
-and while their build resources remain available on our wiki page and
-GitHub, MIT OpenAg can’t currently support community members’ individual
-builds of these versions. Let us know if you're building one of these
-versions, or have modified the build on [this Google
-Form](https://docs.google.com/forms/d/e/1FAIpQLSd6UDIJKbYq-LOPOTddIMNqpUrH4OZX3i3BH2kfzo63JwJXTA/viewform).
-
-For more details, see// [this community forum
-post](https://forum.openag.media.mit.edu/t/update-from-openag-please-read/3171).
-
-Please see [the Personal Food Computers](personal_food_computers.md) page
-for info on all versions of the OpenAg™ PFC.
+that the OpenAg Project paused research on these versions.
 
 The OpenAg™ Personal Food Computer v2.1 is an evolution of
 the [PFC v2.0](food_computer_2.md). This release includes a new light

@@ -25,8 +25,6 @@ can utilize this design.
 * MVP PFC 1.0 (Community-designed Minimal Viable Product PFC)
 
 ```
-*Update 11 October 2018: Please note that Open Agriculture Initiative at the MIT Media Lab paused research on PFC 
-versions 1.0-2.1 in Fall 2017, in anticipation of updated research and release of the PFC 3.0. While the build 
-resources for the older versions remain available on our wiki page and GitHub, MIT can't support community members’ 
-individual builds of PFC versions 1.0, 2.0, 2.1, or the MVP (designed and supported by the OpenAg community). 
+*The OpenAg Project paused research on PFC versions 1.0-2.1 in Fall 2017, in anticipation of updated research 
+and release of the PFC 3.0.  
 ```
