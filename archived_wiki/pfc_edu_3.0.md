@@ -1,8 +1,6 @@
 ---
-layout: bootstrap
+layout: wiki_archive
 ---
-# [Archive of wiki.openag.media.mit.edu](index.md)
-`Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
 
 ## Personal Food Computer 3.0 (PFC_EDU)
 The OpenAg™ Personal Food Computer 3.0 (PFC_EDU) is the latest evolution of the [Personal Food Computer](personal_food_computers.md).

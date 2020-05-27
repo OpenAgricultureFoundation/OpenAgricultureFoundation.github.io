@@ -1,8 +1,6 @@
 ---
-layout: bootstrap
+layout: wiki_archive
 ---
-# [Archive of wiki.openag.media.mit.edu](index.md)
-`Archived Contents from the original OpenAg Wiki (from archive.org snapshot on Apr 8, 2020)`
 
 ## Climate Recipes
 While plants can be altered genetically to produce different or more desirable traits, plants with the same genetics 

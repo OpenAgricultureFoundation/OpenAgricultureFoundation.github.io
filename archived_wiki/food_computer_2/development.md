@@ -1,3 +1,7 @@
+---
+layout: wiki_archive
+---
+
 Setting up a Development Environment for the PFC v2.1
 =====================================================
 

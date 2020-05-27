@@ -1,3 +1,7 @@
+---
+layout: wiki_archive
+---
+
 How to Build and Run a PFCv2.x\*
 ================================
 
@@ -27,7 +31,7 @@ Software (\"openag\_brain\")
 ### Database (the \"Open Phenome Library\")
 
   * Data is stored in [CouchDB](http://couchdb.com/). See [CouchDB documentation](http://docs.couchdb.org/en/2.0.0/) for more.
-  * The [[openag_brain:database]] page has documentation for the Food Computer database schemas.
+  * The [openag_brain:database](openag_brain/database.md) page has documentation for the Food Computer database schemas.
 
 ### Firmware
 
@@ -41,12 +45,12 @@ Software (\"openag\_brain\")
 
   * [[openag_brain:CLI | openag_brain CLI (command line interface)]]
   * [[/openag_ui/ | User Interface (openag_ui)]]
-  * [[openag_brain:api| API]]
-     * [[openag_brain:api:0.0.1]]
+  * [API](openag_brain/api.md)
+     * [openag_brain:api:0.0.1](openag_brain/api/0.0.1.md)
   * [[openag_brain:0.1.0:Fixtures]]
   * [[openag_brain:Firmware Modules]]
   * [[openag_brain: Database]] 
-  * [[Recipe: | Climate Recipes]]
+  * [Climate Recipes](recipe/index.md) 
   * [[:raspberry pi | Working with Raspberry Pi]]
   * [[docker| Working with Docker]]
   * [[openag_brain:ROS | Working with ROS]]
