@@ -25,8 +25,7 @@ instantly.
 
 ## How they work
 
-[Examples of recipes we use at MIT OpenAg for test and
-research.](/contributors/recipes)
+[Examples of recipes we use at OpenAg for test and research.](/archived_wiki/contributors/recipes/index.md)
 
 ## What they look like
 

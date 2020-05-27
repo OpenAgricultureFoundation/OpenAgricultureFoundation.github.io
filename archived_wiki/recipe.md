@@ -21,7 +21,7 @@ outputs in plants (like nutrition, color, flavor), then share, borrow, scale up,
 around the world, instantly.
 
 ## How they work
-Examples of recipes we use at OpenAg for test and research.
+[Examples of recipes we use at OpenAg for test and research.](/archived_wiki/contributors/recipes/index.md)
 
 ## What they look like
 ```json
