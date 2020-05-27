@@ -1,14 +1,18 @@
+---
+layout: wiki_archive
+---
+
 ## ROS and openag\_brain
 
   - **Audience**: makers, developers
   - **Level**: intermediate
 
-[openag\_brain](https://github.com/OpenAgInitiative/openag_brain) runs
-on [ROS (Robot Operating System)](/ros/), an open source robotics system
+[openag\_brain](https://github.com/OpenAgricultureFoundation/openag_brain) runs
+on [ROS (Robot Operating System)](../ros.md), an open source robotics system
 that is used in many commercial robots.
 
   - The current version of
-    [openag\_brain](https://github.com/OpenAgInitiative/openag_brain)
+    [openag\_brain](https://github.com/OpenAgricultureFoundation/openag_brain)
     uses ROS Indigo.
   - Detailed ROS documentation can be found on the [ROS
     Wiki](http://wiki.ros.org/)
@@ -24,7 +28,7 @@ run:
     source ~/catkin_ws/devel/setup.bash
 
 (This also works within the openag\_brain Docker container. See
-[docker](/docker) for more.)
+[docker](../docker.md) for more.)
 
 Once you activate the workspace, you can interact with ROS.
 
@@ -34,7 +38,7 @@ Once you activate the workspace, you can interact with ROS.
 They're named channels over which many different scripts and processes
 can communicate.
 
-[](/openag_brain/) uses ROS topics to tie together sensors, actuators
+[/openag_brain/](../openag_brain.md) uses ROS topics to tie together sensors, actuators
 and controllers into closed feedback loops.
 
 To list available [ROS topics](http://wiki.ros.org/Topics):
@@ -81,5 +85,5 @@ rostopic echo -b subset.bag -p /topic
 
   - Unordered List ItemTo learn more about ROS, check out the [ROS
     wiki](http://wiki.ros.org/).
-  - For ROS development tips and design patterns, visit the [](/ros/)
+  - For ROS development tips and design patterns, visit the [/ros/](../ros.md)
     page on this wiki.

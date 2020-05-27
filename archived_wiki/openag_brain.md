@@ -40,12 +40,12 @@ runs on the [Raspberry Pi](/Raspberry%20Pi) and is based on [ROS](/ROS).
 
 System details for developers:
 
-  - [configuration](/openag_brain/configuration)
+  - [configuration](openag_brain/configuration.md)
   - [database](openag_brain/database.md)
-  - [PID controller](/openag_brain/pid)
+  - [PID controller](openag_brain/pid.md)
   - [docker](docker)
-  - [Robot OS](/openag_brain/ros)
-  - [Command line interface](/openag_brain/cli)
+  - [Robot OS](openag_brain/ros.md)
+  - [Command line interface](openag_brain/cli.md)
 
 See [architecture](food_computer_2/architecture.md) for a 1000ft view of
 the system.

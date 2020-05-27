@@ -1,6 +1,10 @@
+---
+layout: wiki_archive
+---
+
 ## openag\_brain CLI
 
-[](/openag_brain/) commands are typically accessed through
+[/openag_brain/](../openag_brain.md) commands are typically accessed through
 [rosrun](http://wiki.ros.org/rosbash#rosrun).
 
 For example: `rosrun openag_brain main personal_food_computer_v2.launch`
@@ -35,7 +39,7 @@ file.
 
 Used to build the firmware and flash it to the Arduino board. The latest
 [details are
-here.](https://github.com/OpenAgInitiative/openag_brain/blob/master/doc/firmware.rst)
+here.](https://github.com/OpenAgricultureFoundation/openag_brain/blob/master/doc/firmware.rst)
 
 You must initialize the platform I/O system one time:
 

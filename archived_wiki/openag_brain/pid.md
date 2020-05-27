@@ -1,13 +1,17 @@
+---
+layout: wiki_archive
+---
+
 ## pid.py
 
-  - Package: [](/openag_brain/)
+  - Package: [/openag_brain/](../openag_brain.md)
   - Source Code:
-    [openag\_brain.software\_modules.pid](https://github.com/OpenAgInitiative/openag_brain/blob/master/src/openag_brain/software_modules/pid.py)
+    [openag\_brain.software\_modules.pid](https://github.com/OpenAgricultureFoundation/openag_brain/blob/master/src/openag_brain/software_modules/pid.py)
   - License: GPL 3.0
-  - Issues: <https://github.com/OpenAgInitiative/openag_brain/issues>
+  - Issues: <https://github.com/OpenAgricultureFoundation/openag_brain/issues>
 
 The
-[openag\_brain.software\_modules.pid](https://github.com/OpenAgInitiative/openag_brain/blob/master/src/openag_brain/software_modules/pid.py)
+[openag\_brain.software\_modules.pid](https://github.com/OpenAgricultureFoundation/openag_brain/blob/master/src/openag_brain/software_modules/pid.py)
 module is a Python implementation of a [PID
 controller](https://en.wikipedia.org/wiki/PID_controller) for ROS. This
 controller is useful for actuators that need to create a steady state in
@@ -35,7 +39,7 @@ the control effors. Specifically, commands with absolute value less than
 
 ### Configuration via Fixture
 
-An example [fixture](/openag_brain/fixtures) configuration for the PID
+An example [fixture](0.1.0/fixtures.md) configuration for the PID
 controller:
 
     {
@@ -66,7 +70,7 @@ on how to tune a PID controller.
 ### PID with binary actuators
 
 You can use a PID loop with
-[openag\_binary\_actuator](https://github.com/OpenAgInitiative/openag_binary_actuator)
+[openag\_binary\_actuator](https://github.com/OpenAgricultureFoundation/openag_binary_actuator)
 by setting a `lower_limit` of 0, an `upper_limit` of 1 and a
 `deadband_width` of 1.
 
