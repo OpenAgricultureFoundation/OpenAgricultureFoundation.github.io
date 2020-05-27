@@ -7,7 +7,7 @@ layout: wiki_archive
   - **Audience**: everyone
   - **Skill Level**: beginner
 
-This page contains instructions for installing [openag_brain](/archived_wiki/openag_brain.md).
+This page contains instructions for installing [openag_brain](../openag_brain.md).
 
 ### Step 1: install the OS
 
@@ -20,7 +20,7 @@ System](installing/installing_the_os.md).
 
 ### Step 2: install openag\_brain
 
-After installing the OS, you can install [openag\_brain](/archived_wiki/openag_brain.md).
+After installing the OS, you can install [openag\_brain](../openag_brain.md).
 This is the main software that runs the Food Computer.
 
 #### For typical users
@@ -29,7 +29,7 @@ This is the main software that runs the Food Computer.
     Docker](installing/installing_with_docker.md)
     (step-by-step instructions).
       - This is the easiest install because it automates all the steps
-        with a system called [docker](/archived_wiki/docker.md).
+        with a system called [docker](../docker.md).
 
 #### For developers
 

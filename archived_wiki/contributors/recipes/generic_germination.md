@@ -13,7 +13,7 @@ layout: wiki_archive
   - Distance between the light and the top of the foam cubes: 14” (where
     the PAR was measured)
   - Nutrients: 150 ppm nitrogen from our [standard A/B
-    protocol](/archived_wiki/contributors/recipes/generic_nutrients.md).
+    protocol](../contributors/recipes/generic_nutrients.md).
   - Watering: wet cubes twice a day. The foam cubes naturally dry
     between cycles.
       - We use a flood and drain system, which keeps the cubes/seeds

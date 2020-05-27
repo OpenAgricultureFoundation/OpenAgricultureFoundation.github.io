@@ -3,7 +3,7 @@ layout: wiki_archive
 ---
 
 Useful API formulas. Want general API docs? See
-[0.0.1](/archived_wiki/openag_brain/api/0.0.1.md).
+[0.0.1](../openag_brain/api/0.0.1.md).
 
 ## curl
 

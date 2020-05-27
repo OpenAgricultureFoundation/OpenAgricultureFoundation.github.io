@@ -4,8 +4,8 @@ layout: wiki_archive
 
 ## openag\_brain 0.1.0
 
-**This page contains information for [openag_brain](/archived_wiki/openag_brain.md) version 0.1.0.**
-For information about the current release, see [openag_brain](/archived_wiki/openag_brain.md).
+**This page contains information for [openag_brain](../openag_brain.md) version 0.1.0.**
+For information about the current release, see [openag_brain](../openag_brain.md).
 
   - License: GPL 3.0
   - Release:

@@ -18,7 +18,7 @@ Starter Supplies:
 
 Getting started growing with your OpenAg™ Personal Food Computer (PFC)
 is easy. You’ve assembled the [Personal Food
-Computers](/archived_wiki/personal_food_computers.md) and now its time to start
+Computers](../personal_food_computers.md) and now its time to start
 propagating. While the PFC can bring all types of plants––tomatoes,
 basil, broccoli––to maturity, it’s best to initially germinate your
 seeds outside of the bot.

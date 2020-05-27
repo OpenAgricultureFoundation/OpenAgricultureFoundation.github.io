@@ -7,7 +7,7 @@ layout: wiki_archive
 #### Germination
 
   - [Generic germination
-    procedure](/archived_wiki/contributors/recipes/generic_germination.md).
+    procedure](../contributors/recipes/generic_germination.md).
   - Assume the seedlings we transplant to the PFC are two weeks old.
 
 #### Description
@@ -52,4 +52,4 @@ and disease buildup.
 
 #### Nutrient formula
 
-  - [/contributors/recipes/generic\_nutrients](/archived_wiki/contributors/recipes/generic_nutrients.md)
+  - [/contributors/recipes/generic\_nutrients](../contributors/recipes/generic_nutrients.md)
