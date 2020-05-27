@@ -7,7 +7,8 @@ and hardware solutions that were created by OpenAg.
 
 ## Original Wiki
 The original content from the [OpenAg Wiki can be found as static pages](archived_wiki/index.md). The conversion is a 
-work in process, so if there is content that you can't find, please file an issue on this project.
+work in process, so if there is content that you can't find, please file an issue or a pull request on 
+[this project](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io).
 
 ## Data Sets
 Several sets of data were collected with OpenAg devices and published on GitHub.

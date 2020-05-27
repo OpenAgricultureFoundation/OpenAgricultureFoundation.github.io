@@ -24,13 +24,13 @@ Software (\"openag\_brain\")
 ### Core system:
 
   * [High Level PFC Architecture](food_computer_2/architecture.md)
-  * [[openag_brain:]]: the program that runs on the single-board computer ([[:Raspberry Pi]])
-  * [Step-by-step install instructions][openag_brain:installing: | ]
+  * [openag_brain](openag_brain.md) the program that runs on the single-board computer ([[:Raspberry Pi]])
+  * [Step-by-step install instructions](openag_brain/installing.md)
     * [[openag_brain:installing:installing_globally | developer install script]] will install the core system on a Raspberry Pi. This is recommended for development only.
 
 ### Database (the \"Open Phenome Library\")
 
-  * Data is stored in [CouchDB](http://couchdb.com/). See [CouchDB documentation](http://docs.couchdb.org/en/2.0.0/) for more.
+  * Data is stored in [CouchDB](https://couchdb.apache.org/). See [CouchDB documentation](http://docs.couchdb.org/en/2.0.0/) for more.
   * The [openag_brain:database](openag_brain/database.md) page has documentation for the Food Computer database schemas.
 
 ### Firmware
