@@ -7,5 +7,5 @@ Computers](/archived_wiki/personal_food_computers.md):
 
 ![architecture.png](/static/images/wiki/openag/architecture.png)
 
-In the standard configuration, the [database](/openag_brain/database)
-and [](/openag_brain/) run within [docker](/docker) containers.
+In the standard configuration, the [database](/archived_wiki/openag_brain/database.md)
+and [openag_brain](/archived_wiki/openag_brain/index.md) run within [docker](/archived_wiki/docker) containers.

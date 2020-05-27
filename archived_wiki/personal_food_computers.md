@@ -17,8 +17,8 @@ can utilize this design.
 ### Versions
 
 * [Personal Food Computer 3.0 (PFC_EDU) (latest release, October 2018)](pfc_edu_3.0.md)
-* Personal Food Computer 2.1*
-* Personal Food Computer 2.0*
+* [Personal Food Computer 2.1*](pfc_2.1.md)
+* [Personal Food Computer 2.0*](food_computer_2.md)
 * Personal Food Computer 1.0*
 * MVP PFC 1.0 (Community-designed Minimal Viable Product PFC)
 
