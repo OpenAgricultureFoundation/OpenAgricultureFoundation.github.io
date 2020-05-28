@@ -20,8 +20,8 @@ that can be borrowed and scaled so that users around the world can gain access t
 
 * [Personal Food Computers](personal_food_computers.md)
     * [Latest Release: PFC v3.0 (PFC_EDU) (youtube.com link)](https://www.youtube.com/watch?v=-J1DNp4M_1k&feature=youtu.be)
-* Food Server*
-* Food Data Center*
+* [Food Server*](food_server.md)
+* [Food Data Center*](food_data_center.md)
 
 Additional code, software and hardware plans can be found on [github.com/OpenAgricultureFoundation](github.com/OpenAgricultureFoundation).
 
@@ -29,12 +29,12 @@ Additional code, software and hardware plans can be found on [github.com/OpenAgr
 
 ### Growing
 
-* Getting Started
+* [Getting Started](grow/getting_started.md)
 * [Climate Recipes](recipe.md)
-* Resources
+* [Resources](grow/resources.md)
 
 ### Community and Resources
-
+TODO:Update and replace these.
 * Food Computers in Education
 * Contributor's Guide: How to Engage with the OpenAg Team & Community
 * OpenAg Community Forum - `NOTE: the fourm is currently offline`
