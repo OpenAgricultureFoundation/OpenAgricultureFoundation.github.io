@@ -6,9 +6,8 @@ Welcome to the OpenAgriculture Foundation. Here you will find information about 
 and hardware solutions that were created by OpenAg.
 
 ## Original Wiki
-The original content from the [OpenAg Wiki can be found as static pages](archived_wiki/index.md). The conversion is a 
-work in process, so if there is content that you can't find, please file an issue or a pull request on 
-[this project](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io).
+The content from the original [OpenAg Wiki can be found as static pages](archived_wiki/index.md) has been converted to static markdown
+for inclusion on this site. This was a semi-automatic conversion from a snapshot of the wiki from April 8th, 2020. If there is content that you can't find, please file an issue or a pull request on [this project](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io).
 
 ## Data Sets
 Several sets of data were collected with OpenAg devices and published on GitHub.
@@ -69,7 +68,7 @@ account on the cloud software.
 
 #### Cloud Software
 There are several pieces of software that were designed to run in the cloud.
-There is a local services effort underway by [srmoore](https://github.com/srmoore). The goal of which is to replace
+There is a [local services](https://github.com/OpenAgricultureFoundation/self_hosted_backend) effort underway by [srmoore](https://github.com/srmoore). The goal of which is to replace
 the cloud based components with a [docker-compose](https://docs.docker.com/compose/) setup that can be run locally. 
 
 Updates to that effort will be posted here as they become available.
