@@ -50,7 +50,7 @@ account on the cloud software.
 
 #### Cloud Software
 There are several pieces of software that were designed to run in the cloud.
-There is a [local services](https://github.com/OpenAgricultureFoundation/self_hosted_backend) that runs a lightweight 
+There is a [local services](https://github.com/OpenAgricultureFoundation/self_hosted_backend) project that runs a lightweight 
 backend with [docker-compose](https://docs.docker.com/compose/) which enables collection of data one a small local machine. 
 
 ##### cloud_common
