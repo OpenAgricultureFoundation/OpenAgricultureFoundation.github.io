@@ -18,8 +18,8 @@ repository on how to host your own version of the backend without needing [Googl
 other bit of information that could be useful is some information on how OpenAg managed a fleet 
 of PFCs by using [Balena.io](https://www.balena.io/). 
 
-## [Original Wiki](archived_wiki/index.md)
-The content from the original [OpenAg Wiki can be found as static pages](archived_wiki/index.md) has been converted to 
+## [Archived Wiki](archived_wiki/index.md)
+The content from the original [OpenAg Wiki can be found as static pages](archived_wiki/index.md). The original wiki files have been converted to 
 static markdown and included on this site for archival purposes. This was a semi-automatic conversion from a snapshot 
 of the wiki from April 8th, 2020. If there is content you can't find please file an issue, or a pull request 
 on [this project](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io). At the time of 
