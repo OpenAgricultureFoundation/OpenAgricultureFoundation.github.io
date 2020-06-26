@@ -7,8 +7,8 @@ Here you'll find descriptions of the various Github repositories that were used 
 for the last version of the PFC-EDU that was in development at the end of 2019.
 
 ### Hardware
-The OpenAg hardware consists of electrical and mechanical assets. The electrical assets are housed in the [OpenAg-electric](https://github.com/OpenAgricultureFoundation/openag-electrical)
-repositories under `prj/pfc-edu/v4.0` with the current design files and BOM.  Whereas, the latest mechanical cut files, BOM and design files are housed in the [OpenAg-mechanical](https://github.com/OpenAgricultureFoundation/openag-mechanical) repository under `prj/pfc-edu/v4.0`. 
+The OpenAg hardware consists of electrical and mechanical assets. The electrical assets are housed in the [OpenAg-electrical](https://github.com/OpenAgricultureFoundation/openag-electrical)
+repositories under [prj/pfc-edu/v4.0](https://github.com/OpenAgricultureFoundation/openag-electrical/tree/master/prj/pfc-edu/v4.0) with the current [Eagle PCB](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) design files and BOM.  Whereas, the latest mechanical cut files, BOM and design files are housed in the [OpenAg-mechanical](https://github.com/OpenAgricultureFoundation/openag-mechanical) repository under [prj/pfc-edu/v4.0](https://github.com/OpenAgricultureFoundation/openag-mechanical/tree/master/prj/pfc-edu/v4.0). 
 Any updates on contract manufacturers information will be posted here in the future, if applicable.  
 
 ### Software
