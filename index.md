@@ -25,3 +25,11 @@ of the wiki from April 8th, 2020. If there is content you can't find please file
 on [this project](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io). At the time of 
 the snapshot, the latest version of the PFC had not be documented, so the wiki only includes up to the 
 [v3.0 PFC-EDU](archived_wiki/pfc_edu_3.0.md)
+
+## OpenAg Forum
+The OpenAg Forum, which contained much of the community conversation around the OpenAg project was a 
+[Discourse](https://www.discourse.org/) hosted site. After the foundation shutdown, we had to shut down the forum due to 
+the reoccurring cost of running it. A backup was made of the site, and can be made available to someone willing to take 
+over the responsibility and cost of hosting and running the forum. Create a GitHub issue on 
+[the repository for this page](https://github.com/OpenAgricultureFoundation/OpenAgricultureFoundation.github.io) to start
+that conversation.
